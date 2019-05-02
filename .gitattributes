@@ -2,3 +2,6 @@
 *.js linguist-detectable=true
 *.html linguist-detectable=false
 *.xml linguist-detectable=true
+web/css/* linguist-vendored
+web/fonts/* linguist-vendored
+web/vendor/* linguist-vendored
